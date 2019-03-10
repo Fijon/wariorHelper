@@ -1,1 +1,1 @@
-# wariorHelper
+# warriorHelper
